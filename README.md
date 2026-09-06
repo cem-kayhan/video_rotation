@@ -1,2 +1,2 @@
 # video_rotation
-This IP module is capable of rotation any digital video up to 4k 30 fps any degrees. Tested with Avnet UltraZed-EV SoM and Kria KV260 AI Vision Starter Kit.
+This IP module is capable of rotating digital video up to 4K at 30 fps by any angle. It has been tested with the Avnet UltraZed-EV SoM and the Kria KV260 AI Vision Starter Kit.
